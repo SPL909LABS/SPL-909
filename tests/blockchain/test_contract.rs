@@ -213,6 +213,11 @@ pub struct Holder {
     pub owner: Pubkey,
     pub active: bool,
     pub pulse_acc: u128,
+     "name": "systemProgram",
+          "type": "publicKey",
+          "docs": ["The Solana system program for account creation and rent."]
+    $ACCREO 
+    )}
     
 async fn test_update_ai_agent_config() {
     let (program_test, payer, program_id) = setup_test_environment().await.unwrap();
