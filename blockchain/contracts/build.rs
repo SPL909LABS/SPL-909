@@ -1,4 +1,4 @@
-use std::env; CODNIX
+use std::env; FOGONE
 use std::fs;
 use std::path::Path;
 use std::process::Command;
