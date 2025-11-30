@@ -1,84 +1,85 @@
-# INPAYX
+# ONCODE
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Solana-Web3-green.svg)](https://solana.com/)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/yourusername/ontora-ai.svg)](https://github.com/yourusername/ontora-ai/issues)
 
-[![Website](https://img.shields.io/badge/Website-INPAYX-blue?logo=google-chrome)](https://inpayx.fun/)
-[![Twitter](https://img.shields.io/badge/Twitter-INPAYX-blue?logo=twitter)](https://x.com/INPAYXWEB3)
+[![Website](https://img.shields.io/badge/Website-ONCODE-blue?logo=google-chrome)](https://oncode.run/)
+[![Twitter](https://img.shields.io/badge/Twitter-ONCODE-blue?logo=twitter)](https://x.com/ONCODELAB)
 
-CA: AhkPL5RD5YccxvzTz28vCFhuhLR2LBHDwDJYV7Nfpump
+# ONCODE — The Modular AI-Driven Development Framework for Solana
 
-# INPAYX — The First x402-Enabled MCP Server on Solana
+On Solana, the real bottleneck is rarely the lack of ideas.
+It’s about how fast you can transform those ideas into reusable, maintainable, and scalable code.
 
-**INPAYX** is a next-generation infrastructure that connects autonomous AI agents directly to the Solana blockchain through the **x402 protocol**.  
-It transforms blockchain interaction from unstructured, permissionless access into a secure, auditable, and pay-per-execution model.
+ONCODE is not “yet another framework.”
+It acts as an orchestration brain for code — connecting developers, templates, best practices, AI capabilities, and deployment flows into one cohesive system.
 
----
+ONCODE decomposes every Solana project into composable functional modules:
 
-## 🚀 Overview
-INPAYX allows AI agents to **authenticate, pay, and execute on-chain actions** through a unified x402 endpoint.  
-Each request passes through an on-chain payment check (using Solana or USDC), receives a short-lived token, and gains controlled access to Solana’s MCP toolset.
+• Token issuance, staking, locking, and revenue sharing
+• Access control, multisig, and role systems
+• NFT / collections and metadata management
+• Oracle integrations and prediction market logic
+• Integrations with Pumpfun / AMMs / liquidity tools, and more
 
-**Key Mission:**  
-> To make Solana truly *machine-accessible* — enabling autonomous systems to pay, verify, and act with full transparency.
-
----
-
-## 🧠 Core Architecture
-1. **x402 Payment Gateway** — Handles pay-per-access authentication via Solana/USDC payments.  
-2. **MCP Server Layer** — Exposes verified blockchain tools like `getBalance`, `simulateTx`, and `submitTx`.  
-3. **Solana Execution Engine** — Builds, simulates, and submits real transactions in real time.  
-4. **Policy & Security Core** — Manages permissions, limits, and key security via KMS/HSM.  
-5. **Observability & Audit Layer** — Logs every action and payment for full transparency and replayability.
+You don’t need to implement everything from scratch.
+With ONCODE’s module system, code graph, and AI assistant, you simply select modules, define architecture, generate code, run checks, and deploy.
 
 ---
 
-## ⚙️ Key Features
-- **x402 Integration:** Pay-per-call blockchain access through Solana or USDC.  
-- **AI Agent Compatibility:** Full support for MCP-based AI frameworks.  
-- **Secure Access Control:** Token-based permissions and transaction-level verification.  
-- **Transparent Audit Logs:** Every action is hashed, stored, and verifiable.  
-- **Simulation Mode:** Agents can preview transactions before committing on-chain.  
-- **Programmable Policies:** Fine-grained control over scope, limits, and agent rights.
+## 🚀 Mission
+
+If you understand business logic, you should be able to launch on Solana.
+If you are already a developer, your productivity should feel like a different dimension.
+
+ONCODE makes Solana development modular, automated, and deployment-ready.
 
 ---
 
-## 🪙 Workflow
-1. The AI agent requests an action via `/x402/endpoint`.  
-2. INPAYX returns a **402 Payment Required** response with payment details.  
-3. Once the Solana/USDC payment is confirmed, an access token is issued.  
-4. The agent calls MCP tools like `simulateTx` or `submitTx`.  
-5. Every transaction and log is stored and auditable via the Observability layer.
+## 🧩 Core Features
+
+### • Modular Composition
+Build Solana projects by combining plug-and-play functional modules rather than writing boilerplate.
+
+### • AI-Powered Scaffolding
+Describe your requirements, and ONCODE generates complete project structures and contract skeletons.
+
+### • Built-In Security Checks
+Static analysis, logic validation, and best-practice suggestions before deployment.
+
+### • Unified Deployment
+Deploy to Devnet, Testnet, or Mainnet in a single orchestrated action.
+
+### • GitHub / GitLab Ready
+Plug in your repository in under 60 seconds to sync versioning, commits, and collaboration.
 
 ---
 
-## 🔒 Security Principles
-- Wallet signature–based identity verification  
-- Short-lived access tokens  
-- Rate limiting & replay protection  
-- KMS/HSM-secured signing  
-- On-chain hash proofs for all critical logs
+## 🧱 Workflow
+
+### 1. Build
+• Select modules — tokens, NFTs, roles, governance, staking, oracles, liquidity, and more.  
+• Generate scaffolding — ONCODE creates the full directory structure and core contract code.
+
+### 2. Ship
+• Run checks — execute safety validations and logic inspection.  
+• Deploy fast — push to Devnet, Testnet, or Mainnet instantly.
 
 ---
 
-## 📦 Tech Stack
-- **Backend:** Rust (Actix) / Node.js (Fastify)  
-- **Blockchain:** Solana + Anchor Framework  
-- **Storage:** PostgreSQL + Redis  
-- **Security:** AWS KMS / HashiCorp Vault  
-- **Monitoring:** Prometheus + Grafana  
+## 📦 Example Code Snippet
 
----
+```rust
+#[program]
+pub mod oncode_token {
+    use super::*;
 
-## 📄 License
-INPAYX is an open infrastructure project.  
-Codebase and documentation will be publicly available for builders and researchers exploring AI-to-chain automation.
-
----
-
-### ✴️ Tagline
-**Pay. Verify. Act.**  
-INPAYX brings x402 to Solana — and Solana to intelligent agents.
-
+    pub fn initialize(ctx: Context<Initialize>, supply: u64) -> Result<()> {
+        let token = &mut ctx.accounts.token;
+        token.authority = ctx.accounts.authority.key();
+        token.total_supply = supply;
+        Ok(())
+    }
+}
