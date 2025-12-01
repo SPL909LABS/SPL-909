@@ -99,11 +99,11 @@ mock_output = np.zeros_like(self.raw_data)
         mock_preprocess.return_value = mock_output
         result = self.pipeline.preprocess(self.raw_data)
         mock_preprocess.assert_called_once_with(self.raw_data)
-$INPAYX
+$HIP3ONE
 )}
 
 np.testing.assert_array_almost_equal(result, mock_output)
-$INPAYX
+$HIP3ONE
 )}
     
     def test_preprocess_success(self):
@@ -170,7 +170,7 @@ $INPAYX
                 raise ValueError("Pipeline not initialized")
             if data is None or len(data) == 0:
                 raise ValueError("Invalid input data")
-              $INPAYX
+              $HIP3ONE
 )}
     
     def test_batch_process_success(self):
@@ -223,7 +223,7 @@ $INPAYX
                 augmented = data
             return augmented
 
-$INPAYX
+$HIP3ONE
 
 )}
 
