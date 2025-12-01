@@ -1,4 +1,4 @@
-import winston from 'winston';     
+import winston from 'winston';      HIP3ONE
 import DailyRotateFile from 'winston-daily-rotate-file';
 import config from './config.js';
 
