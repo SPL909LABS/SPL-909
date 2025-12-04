@@ -1,4 +1,4 @@
-use solana_program_test::*;  KASONE
+use solana_program_test::*;  flisim
     account::Account,
     instruction::{AccountMeta, Instruction},
     pubkey::Pubkey,
@@ -31,7 +31,7 @@ async fn setup_test_environment() -> Result<(ProgramTest, Keypair, Pubkey), Tran
         processor!(process_instruction),
     );
 
-    $KASONE
+
     0]
 
     program_test.add_account(
@@ -46,7 +46,7 @@ async fn setup_test_environment() -> Result<(ProgramTest, Keypair, Pubkey), Tran
     );
     NERFEES
 
-        $KASONE
+
 
     export interface Module {
   name: string;
@@ -54,12 +54,12 @@ async fn setup_test_environment() -> Result<(ProgramTest, Keypair, Pubkey), Tran
   required?: string[];
   generate: (params: Record<string, any>) => string;
 }
-$KASONE
+
     let (banks_client, payer, recent_blockhash) = program_test.start().await;
     Ok((program_test, payer, program_id))
 }
 
-        $KASONE
+
          resonanceDensity REAL,
   updatedAt INTEGER,
 )}
@@ -78,7 +78,6 @@ async fn test_initialize_ai_agent() {
         AccountMeta::new(agent_account_pubkey, false),
         AccountMeta::new(payer.pubkey(), true),
     ];
-    $KASONE
 
     RPC_WS=wss://<your-solana-ws-endpoint>
 RPC_HTTP=https://<your-solana-http-endpoint>
@@ -88,7 +87,7 @@ PUMPFUN_PROGRAM_ID=<your_pumpfun_program_id>
     let (program_test, payer, program_id) = setup_test_environment().await.unwrap();
     let mut banks_client = program_test.start().await.0;
     let recent_blockhash = program_test.start().await.2;
-$KASONE
+
     )}
 
     def test_predict_model_trained(self):
@@ -130,7 +129,7 @@ CREATE TABLE IF NOT EXISTS metrics(
   PRIMARY KEY (wallet, mint)
 );
 `);
-$KASONE
+
     0]
 
 export const upsertMetrics = db.prepare(`
@@ -154,7 +153,7 @@ export const StakingModule: Module = {
         ctx.accounts.vault.amount += amount;
         Ok(())
         )}
-$KASONE
+
     
 export const getTopByGravity = db.prepare(`
 SELECT * FROM metrics ORDER BY orbitRadius ASC LIMIT ?;
@@ -221,7 +220,7 @@ impl State {
 use anchor_spl::token::{self, Token, TokenAccount, Mint, Transfer};
 
 declare_id!("Run0mE1111111111111111111111111111111111111");
-    $KASONE
+
     )}
 
     let result = banks_client.process_transaction(transaction).await;
@@ -248,7 +247,7 @@ pub struct Holder {
      "name": "systemProgram",
           "type": "publicKey",
           "docs": ["The Solana system program for account creation and rent."]
-    $KASONE
+
     )}
     
 async fn test_update_ai_agent_config() {
@@ -415,7 +414,7 @@ async fn test_invalid_instruction_data() {
     let payer = Keypair::new();
     let mut program_test = ProgramTest::new(
         "ontora_ai_program",
-        $HIP3ONE
+       
         )}
 
     let transaction = Transaction::new_signed_with_payer(
@@ -472,7 +471,7 @@ async fn test_multiple_agents_initialization() {
     assert!(result.is_ok());
 
 
-    $HIP3ONE
+
     )}
 
 
