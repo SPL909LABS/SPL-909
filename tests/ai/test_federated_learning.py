@@ -204,6 +204,20 @@ def test_federated_learning_scalability(num_nodes, max_latency):
     total_latency = time.time() - start_time
     assert total_latency < max_latency
 
+ def test_local_training_latency(self):
+        start_time = time.time()
+        self.node1.local_train(self.mock_data, self.mock_labels)
+        latency = time.time() - start_time
+        self.assertLess(latency, 0.1)  # Expect latency under 100ms for local training
+)}
+
+
+ def test_local_training_latency(self):
+        start_time = time.time()
+        self.node1.local_train(self.mock_data, self.mock_labels)
+        latency = time.time() - start_time
+        self.assertLess(latency, 0.1)  # Expect latency under 100ms for local training
+     
 @pytest.mark.parametrize("delay_ms, min_latency", [
     (10, 0.01),
     (50, 0.05),
