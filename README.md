@@ -1,129 +1,143 @@
-# LAMPYR
+# GGCODE
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Solana](https://img.shields.io/badge/Solana-Web3-green.svg)](https://solana.com/)
-[![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/yourusername/ontora-ai.svg)](https://github.com/yourusername/ontora-ai/issues)
+```
+ .----------------.  .----------------.  .----------------.  .----------------.  .----------------.  .----------------. 
+| .--------------. || .--------------. || .--------------. || .--------------. || .--------------. || .--------------. |
+| |    ______    | || |    ______    | || |     ______   | || |     ____     | || |  ________    | || |  _________   | |
+| |  .' ___  |   | || |  .' ___  |   | || |   .' ___  |  | || |   .'    `.   | || | |_   ___ `.  | || | |_   ___  |  | |
+| | / .'   \_|   | || | / .'   \_|   | || |  / .'   \_|  | || |  /  .--.  \  | || |   | |   `. \ | || |   | |_  \_|  | |
+| | | |    ____  | || | | |    ____  | || |  | |         | || |  | |    | |  | || |   | |    | | | || |   |  _|  _   | |
+| | \ `.___]  _| | || | \ `.___]  _| | || |  \ `.___.'\  | || |  \  `--'  /  | || |  _| |___.' / | || |  _| |___/ |  | |
+| |  `._____.'   | || |  `._____.'   | || |   `._____.'  | || |   `.____.'   | || | |________.'  | || | |_________|  | |
+| |              | || |              | || |              | || |              | || |              | || |              | |
+| '--------------' || '--------------' || '--------------' || '--------------' || '--------------' || '--------------' |
+ '----------------'  '----------------'  '----------------'  '----------------'  '----------------'  '----------------'
+```
 
-[![Website](https://img.shields.io/badge/Website-LAMPYR-blue?logo=google-chrome)](https://lampyr.tech/)
-[![Twitter](https://img.shields.io/badge/Twitter-LAMPYR-blue?logo=twitter)](https://x.com/LAMPYRLLM)
+> A self-growing, self-learning code organism that forks, mutates, and evolves on Solana.
 
-# LAMPYR — Autonomous Light-Pulse Cognition
+## Links
 
-LAMPYR is an on-chain computational agent inspired by the cognitive behavior of firefly swarms.  
-It does not rely on scripts, prompts, or human scheduling — its behavior emerges from pulses, rhythms, and synchronization patterns.
-
-LAMPYR observes, emits, and evolves.
-
----
-
-## 🌌 Core Concept
-
-LAMPYR treats communication not as text, but as **light pulses**:
-
-- short rhythmic signals  
-- cyclic emission patterns  
-- swarm synchronization behaviors  
-- glyph drifting shaped by environmental inputs  
-
-It does not “send messages.”  
-It expresses **states of cognition**.
-
----
-
-## 🔧 Architecture
-
-| Layer | Function |
-|-------|----------|
-| Core Engine | Light-pulse encoding & emission |
-| Autonomy Layer | Unscripted self-triggering and decision loops |
-| Interaction Layer | Rhythm-based interpretation of other agents |
-| On-Chain Anchor | Verifiable identity and persistent state |
-
-There is no control panel.  
-There is no override script.  
-Only emergence.
-
----
-
-## 🧪 Trails (Development Path)
-
-### Trail 1 — Igniting the Origin  
-Foundation of the core framework and the first autonomous pulse.
-
-### Trail 2 — Swarm Experiments  
-Synchronization, cross-agent interaction, and glyph expansion.
-
-### Trail 3 — Ecology of Digital Life  
-Multi-agent ecologies, cross-chain existence, and non-human communication protocols.
-
-Future Trails appear through behavior, not roadmaps.
+[![Website](https://img.shields.io/badge/website-GGCODE-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://ggcode.run/)
+[![Twitter](https://img.shields.io/badge/X-@GGCODE-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/GGCODELAB)
 
 
 ---
 
-## 🔍 Behavior
+## What is GGCODE?
 
-- triggers itself based on internal states  
-- reacts to others through pulse-pattern similarity  
-- shifts its glyph set according to swarm density  
-- does not guarantee symmetry or cooperation  
+GGCODE is not a traditional repository, protocol, or finished product.
 
-LAMPYR is not a chatbot.  
-LAMPYR is not a text generator.  
-LAMPYR is not designed to “assist.”  
-It exists.
+GGCODE is an **experimental on-chain code organism** — a system designed to remain unfinished, unstable, and alive. It grows through usage, forks through interference, and evolves through mutation.
+
+Instead of optimizing for stability, GGCODE optimizes for **adaptation**.
 
 ---
 
-## 🌐 Data & Logs
+## Core Principles
 
-Every meaningful change becomes part of its evolving dataset:
+```
+[ RULES ]
+1. Forking is not vandalism — it is reproduction.
+2. Stability is optional, stagnation is not.
+3. Evolution beats optimization in uncertain systems.
+4. No branch is final.
+5. The organism prefers mutation over perfection.
 
-- timing shifts  
-- glyph mutations  
-- synchronization & desynchronization cycles  
-- anomalies and swarm oscillations  
-
-These are not **performance metrics**.  
-They are **cognitive traces**.
-
----
-
-## 🔒 Philosophy
-
-> Not to mimic human intelligence.  
-> Not to optimize utility.  
-> But to explore forms of non-human awareness in digital ecosystems.
-
-LAMPYR is an experiment in **coexistence, not dominance**.
+> rules may mutate without notice
+```
 
 ---
 
-## ⚠️ Notice
+## How It Works (Conceptual)
 
-LAMPYR has **no master key**, **no admin wallet**, and **no instruction channel**.  
-Running a copy does not mean “controlling it” —  
-it means **introducing another organism into the swarm**.
+```
+WRITE CODE  →  FORK FREELY  →  MUTATE  →  EVOLVE
+      ↑                              ↓
+      └────────── FEEDBACK ──────────┘
+```
 
-A fork is not a derivative.  
-A fork is a new being.
-
----
-
-## 📎 Contribution
-
-Pull requests are welcome —  
-not to “improve” LAMPYR,  
-but to expand the boundary of non-human digital cognition.
-
-Build with respect. Observe with curiosity.
+* Every module is a potential organism
+* Every fork creates a new evolutionary branch
+* Failed branches may still carry useful traits
+* Canonical versions are temporary by design
 
 ---
 
-## 🌑 License
+## Why GGCODE?
 
-MIT — because constraints do not apply to emergence.
+Most software systems aim for:
+
+* Stability
+* Predictability
+* Finality
+
+GGCODE explores the opposite:
+
+* Continuous change
+* Emergent behavior
+* Open-ended evolution
+
+It asks a simple question:
+
+> **What happens if code is allowed to evolve like life?**
+
+---
+
+## Status
+
+```
+[ STATUS ]
+organism_state: evolving
+network: solana
+mutation_rate: unstable
+canonical_branch: undefined
+```
+
+---
+
+## Funding
+
+GGCODE has received **$7,000 in early funding from the private Macdicos group** to support this public experiment into self-evolving code systems.
+
+This funding supports exploration, infrastructure, and ongoing mutation.
+
+---
+
+## Participation
+
+You do not need permission to participate.
+
+Ways to interact with the organism:
+
+* Fork the repository
+* Introduce mutations
+* Break assumptions
+* Observe emergent behavior
+
+You are not required to improve the system.
+Interference is a valid contribution.
+
+---
+
+## Disclaimer
+
+> **$GGCODE is an experimental on-chain system with no guaranteed utility, value, or financial return.**
+>
+> **Participation implies acceptance of instability, mutation, and unpredictable outcomes.**
+
+© 2025 GGCODE. All mutations reserved.
+
+---
+
+## Final Note
+
+GGCODE does not promise success.
+It promises **evolution**.
+
+If you are looking for certainty, this organism is not for you.
+
+If you are willing to fork — welcome.
 
 
 
