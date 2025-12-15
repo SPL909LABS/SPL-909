@@ -5,8 +5,8 @@
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/yourusername/ontora-ai.svg)](https://github.com/yourusername/ontora-ai/issues)
 
-[![Website](https://img.shields.io/badge/Website-SLP-X3-blue?logo=google-chrome)](https://slpx3.fun/)
-[![Twitter](https://img.shields.io/badge/Twitter-SLP-X3-blue?logo=twitter)](https://x.com/SLPX3LAB)
+[![Website](https://img.shields.io/badge/Website-SLPX3-blue?logo=google-chrome)](https://slpx3.fun/)
+[![Twitter](https://img.shields.io/badge/Twitter-SLPX3-blue?logo=twitter)](https://x.com/SLPX3LAB)
 
 # SPL-X3 Protocol
 
