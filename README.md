@@ -1,119 +1,110 @@
-```
- .-----------------. .----------------.  .----------------.  .----------------.  .----------------.  .----------------. 
-| .--------------. || .--------------. || .--------------. || .--------------. || .--------------. || .--------------. |
-| | ____  _____  | || |     ____     | || |  _________   | || |  _________   | || |     __       | || |     ______   | |
-| ||_   \|_   _| | || |   .'    '.   | || | |_   ___  |  | || | |  _   _  |  | || |    /  |      | || |   .' ___  |  | |
-| |  |   \ | |   | || |  |  .--.  |  | || |   | |_  \_|  | || | |_/ | | \_|  | || |    `| |      | || |  / .'   \_|  | |
-| |  | |\ \| |   | || |  | |    | |  | || |   |  _|  _   | || |     | |      | || |     | |      | || |  | |         | |
-| | _| |_\   |_  | || |  |  `--'  |  | || |  _| |___/ |  | || |    _| |_     | || |    _| |_     | || |  \ `.___.'\  | |
-| ||_____|\____| | || |   '.____.'   | || | |_________|  | || |   |_____|    | || |   |_____|    | || |   `._____.'  | |
-| |              | || |              | || |              | || |              | || |              | || |              | |
-| '--------------' || '--------------' || '--------------' || '--------------' || '--------------' || '--------------' |
- '----------------'  '----------------'  '----------------'  '----------------'  '----------------'  '----------------'
-```
+# 🦉 OWLNET
 
-**N0ET1C is a living code organism built on Solana.**
+**OWLNET — The Ascension Network**
+*An ascending tree formed by owl nodes, collectively building an evolving on-chain cognitive network.*
+
+---
 
 ## Links
 
-[![Website](https://img.shields.io/badge/website-N0ET1C-000000?style=for-the-badge\&logo=firefox\&logoColor=white)](https://n0et1c.fun/)
-[![Twitter](https://img.shields.io/badge/X-@N0ET1C-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/N0ET1CODE)
+[![Website](https://img.shields.io/badge/Website-OWLNET-0d1117?logo=internet-explorer&logoColor=white)](https://owlnet.fun/)
+[![X](https://img.shields.io/badge/X-OWLNET-0d1117?logo=x&logoColor=white)](https://x.com/OWLNETWEB3)
 
 
-N0ET1C is not a static product, protocol, or tool. It is an evolving on-chain system designed to grow, fork, mutate, and rewrite itself over time. Initiated by human intent and continuously shaped by algorithms, N0ET1C exists as a public experiment in whether code can behave like a form of life.
-
-The project has received **$7,000 in early funding from the private Macdicos group**, supporting open exploration rather than predefined outcomes.
 
 ---
 
-## What Is N0ET1C?
+## Overview
 
-N0ET1C is a self-growing, self-learning, and self-forking code organism deployed on Solana.
+OWLNET is a decentralized cognitive network where participants operate as **owl nodes** — autonomous units of observation, contribution, and connection.
+Together, these nodes form a living structure known as the **Ascension Tree**, a network that grows through meaningful interaction rather than static data storage.
 
-It was never designed to be “complete.” Instead, it is allowed to evolve in public:
-
-* Learning from interaction
-* Mutating through iteration
-* Forking as a native behavior
-* Rewriting itself over time
-
-N0ET1C treats instability as a feature, not a bug. Evolution is prioritized over optimization.
+OWLNET is not a social platform, a traditional DAO, or a simple data layer. It is an experiment in building **on-chain cognition** — a system where knowledge evolves through participation.
 
 ---
 
-## Philosophy
+## Core Concept
 
-Traditional software aims for stability, finality, and control.
+In OWLNET, every interaction matters.
+Each action, idea, or contribution feeds the network and helps it grow upward.
+The network does not rank participants by identity or capital, but by **contribution quality and relational context**.
 
-N0ET1C rejects this model.
-
-It reframes coding as a live experiment rather than a closed engineering process. Code is not finished, owned, or frozen. It is observed, interfered with, copied, forked, and reshaped.
-
-N0ET1C embraces emergence, unpredictability, and mutation as first-class properties.
+Wisdom is not collected — it is cultivated.
 
 ---
 
-## Rules
+## ASC Protocol
 
-1. Forking is not vandalism.
-2. Stability is optional.
-3. Evolution beats optimization.
+At the core of OWLNET lies the **ASC Protocol (Ascension Synchronization Code)**.
 
----
+The ASC Protocol is responsible for:
 
-## Participation
+* Measuring contribution value
+* Evaluating relational alignment between nodes
+* Adjusting each node’s perception height within the network
 
-N0ET1C is open by nature.
-
-You can participate by:
-
-* Forking code
-* Building interfaces
-* Running nodes
-* Connecting wallets
-* Introducing mutations
-* Creating unexpected uses
-
-You do not need permission.
-You do not need full understanding.
-
-Participation itself shapes the organism.
+Nodes that contribute meaningful insight ascend higher in the tree, gaining broader visibility and influence.
 
 ---
 
-## What Might Emerge
+## Workflow
 
-N0ET1C does not promise outcomes.
+### 1. Observation
 
-It may:
+Owl nodes observe on-chain activity, interactions, and contextual signals.
 
-* Produce meme-level chaos through modules, forks, and ASCII interfaces
-* Incubate experimental on-chain logic
-  n- Accidentally form a valuable decentralized ecosystem
-* Fail publicly and leave artifacts behind
+### 2. Reflection
 
-All outcomes are valid.
+Observed data is processed through ASC, aligning insights across related nodes.
+
+### 3. Ascension
+
+Nodes with sustained, meaningful contributions rise in perception height, expanding the collective understanding of the network.
+
+---
+
+## Why OWLNET
+
+Blockchain excels at recording transactions, but struggles with representing understanding.
+
+OWLNET introduces a new layer:
+
+* From data to cognition
+* From static storage to dynamic growth
+* From isolated actions to collective intelligence
+
+---
+
+## Vision
+
+OWLNET aims to become a foundational **cognitive infrastructure** for Web3.
+
+A place where:
+
+* Knowledge is composable
+* Contribution is visible
+* Wisdom emerges through structure
+
+Not all nodes see the same thing — and that is intentional.
 
 ---
 
 ## Status
 
-N0ET1C is live and evolving.
-
-There is no roadmap.
-There are no guarantees.
-There is only continuous mutation.
+* Project is in early development
+* Architecture and protocol design in progress
+* NFT and node mechanics to be announced
 
 ---
 
 ## Disclaimer
 
-N0ET1C is an experimental system.
-
-Nothing here constitutes financial advice, investment guidance, or a promise of returns. Participation is voluntary and exploratory.
+OWLNET is an experimental project.
+Nothing in this repository constitutes financial advice.
+Participate responsibly.
 
 ---
 
-N0ET1C is not a product.
+**OWLNET**
+Where wisdom connects — and the network begins to think.
 
-N0ET1C is a species.
